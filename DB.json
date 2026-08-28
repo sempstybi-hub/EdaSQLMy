@@ -1,1 +1,39 @@
-
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Фотография 1",
+      "description": "Это полное описание элемента с деталями и информацией",
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg",
+        "https://example.com/image3.jpg",
+        "https://example.com/image4.jpg"
+      ],
+      "video": "https://example.com/video.mp4",
+      "list": [
+        "Пункт списка 1",
+        "Пункт списка 2",
+        "Пункт списка 3",
+        "Пункт списка 4"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Фотография 2",
+      "description": "Описание второго элемента",
+      "images": [
+        "https://example.com/image5.jpg",
+        "https://example.com/image6.jpg",
+        "https://example.com/image7.jpg",
+        "https://example.com/image8.jpg"
+      ],
+      "video": "https://example.com/video2.mp4",
+      "list": [
+        "Пункт списка 1",
+        "Пункт списка 2",
+        "Пункт списка 3"
+      ]
+    }
+  ]
+}
