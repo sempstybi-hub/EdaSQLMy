@@ -23,13 +23,14 @@
     },
     {
       "id": 2,
-      "name": "Фотография 2",
+      "name": "Котлеты по-киевски",
+      "banner": "https://img.povar.ru/640w/ec/3c/b6/03/kotleti_po-kievski_klassicheskii_recept-192461.jpg",
       "description": "Описание второго элемента",
       "images": [
-        "https://example.com/image5.jpg",
-        "https://example.com/image6.jpg",
-        "https://example.com/image7.jpg",
-        "https://example.com/image8.jpg"
+        "https://img.povar.ru/640w/ec/3c/b6/03/kotleti_po-kievski_klassicheskii_recept-192461.jpg",
+        "https://img.povar.ru/mobile/55/20/e6/0f/kotleti_po-kievski_klassicheskii_recept-192455.jpeg",
+        "https://img.povar.ru/mobile/64/75/ba/39/kotleti_po-kievski_klassicheskii_recept-192458.jpeg",
+        "https://img.povar.ru/mobile/a7/e9/ef/85/kotleti_po-kievski_klassicheskii_recept-192459.jpeg"
       ],
       "video": "https://example.com/video2.mp4",
       "list": [
