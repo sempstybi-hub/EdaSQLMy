@@ -28,10 +28,10 @@
         "5. Запекайте в духовке, разогретой до 180 градусов, 15 минут, пока начинка не станет золотистой, а низ хорошенько подрумянится"
       ],
       "nutrition": {
-        "calories": 250,
-        "proteins": 12,
-        "fats": 8,
-        "carbohydrates": 30
+        "calories": 0,
+        "proteins": 0,
+        "fats": 0,
+        "carbohydrates": 0
       }
     },
     {
@@ -62,27 +62,31 @@
         "5. Обваляйте котлеты в муке, затем в яйце, затем в панировочных сухарях.",
         "6. Обжарьте котлеты во фритюре до золотистой корочки.",
         "7. Доведите до готовности в духовке при 180°C 10-15 минут."
-      ]
+      ],
+      "nutrition": {
+        "calories": 241,
+        "proteins": 18,
+        "fats": 9,
+        "carbohydrates": 20
+      }
     },
     {
       "id": 3,
       "name": "Пышные оладьи",
-      "banner": "https://img.povar.ru/640w/ec/3c/b6/03/kotleti_po-kievski_klassicheskii_recept-192461.jpg",
+      "banner": "https://img.povar.ru/mobile/9f/95/c0/f6/pishnie_oladi_bez_yaic-626517.JPG",
       "description": "Это эталон и вершина кулинарного искусства, который нам запомнился из детства. Именно по этому рецепту готовили котлеты по-киевски во всех заведениях общепита бывшего Союза.",
       "images": [
-        "https://img.povar.ru/640w/ec/3c/b6/03/kotleti_po-kievski_klassicheskii_recept-192461.jpg",
-        "https://img.povar.ru/mobile/55/20/e6/0f/kotleti_po-kievski_klassicheskii_recept-192455.jpeg",
-        "https://img.povar.ru/mobile/64/75/ba/39/kotleti_po-kievski_klassicheskii_recept-192458.jpeg",
-        "https://img.povar.ru/mobile/a7/e9/ef/85/kotleti_po-kievski_klassicheskii_recept-192459.jpeg"
+        "https://img.povar.ru/mobile/9f/95/c0/f6/pishnie_oladi_bez_yaic-626517.JPG",
+        "https://img.povar.ru/mobile/c0/c7/1e/72/pishnie_oladi_bez_yaic-626516.JPG",
+        "https://img.povar.ru/mobile/7b/71/e9/91/pishnie_oladi_bez_yaic-626511.JPG"
       ],
       "video": "https://example.com/video2.mp4",
       "ingredients": [
-        "Куриная грудка - 2 шт.",
-        "Сливочное масло - 100 г",
-        "Яйцо - 2 шт.",
-        "Панировочные сухари - 100 г",
-        "Соль, перец по вкусу",
-        "Растительное масло для жарки"
+        "Сода - 1/2 ч. ложки",
+        "Кефир - 200 мл",
+        "Мука - 160 г",
+        "Сахар - 1 ч. ложка",
+        "Соль - 1/3 ч. ложки"
       ],
       "Cooking": [
         "1. Куриную грудку разрежьте на две части и хорошо отбейте.",
@@ -92,7 +96,13 @@
         "5. Обваляйте котлеты в муке, затем в яйце, затем в панировочных сухарях.",
         "6. Обжарьте котлеты во фритюре до золотистой корочки.",
         "7. Доведите до готовности в духовке при 180°C 10-15 минут."
-      ]
+      ],
+      "nutrition": {
+        "calories": 176,
+        "proteins": 7,
+        "fats": 2,
+        "carbohydrates": 33
+      }
     }
   ]
 }
