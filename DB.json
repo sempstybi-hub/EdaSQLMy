@@ -34,7 +34,7 @@
         "carbohydrates": 0
       }
     },
-        {
+    {
       "id": 2,
       "name": "Котлеты по-киевски",
       "banner": "https://img.povar.ru/640w/ec/3c/b6/03/kotleti_po-kievski_klassicheskii_recept-192461.jpg",
@@ -182,10 +182,14 @@
     {
       "id": 6,
       "name": "Самса со свининой",
-      "banner": "https://povar.ru/recipes/samsa_so_svininoi-17852.html",
+      "banner": "https://img.povar.ru/mobile/83/86/85/8a/samsa_so_svininoi-892479.JPG",
       "description": "Самса — это традиционное восточное блюдо из тонкого слоеного теста. Появившись на Востоке, эта выпечка распространилась со временем по всему миру и готовят ее с самыми разными начинками. Тесто получается тонким и хрустящим, а начинка — сочной и ароматной.",
       "images": [
-        "https://povar.ru/recipes/samsa_so_svininoi-17852.html"
+        "https://img.povar.ru/mobile/83/86/85/8a/samsa_so_svininoi-892479.JPG",
+        "https://img.povar.ru/mobile/16/a0/9a/45/samsa_so_svininoi-892458.JPG",
+        "https://img.povar.ru/mobile/3b/9c/15/91/samsa_so_svininoi-892460.JPG",
+        "https://img.povar.ru/mobile/00/5a/31/93/samsa_so_svininoi-892461.JPG",
+        "https://img.povar.ru/mobile/37/ee/b7/5a/samsa_so_svininoi-892464.JPG"
       ],
       "video": "",
       "ingredients": [
@@ -222,10 +226,14 @@
     {
       "id": 7,
       "name": "Рулет из баклажанов с сыром и корейской морковью",
-      "banner": "https://m.povar.ru/recipes/rulet_iz_baklajanov_s_syrom_i_koreiskoi_morkoviu-95560.html",
+      "banner": "https://img.povar.ru/mobile/5f/40/67/4d/rulet_iz_baklajanov_s_sirom_i_koreiskoi_morkoviu-856453.jpg",
       "description": "Баклажаны прекрасно сочетаются со многими ингредиентами. Это прекрасный продукт для любых кулинарных экспериментов. Предлагаю приготовить рулетики из баклажанов с сыром и корейской морковью.",
       "images": [
-        "https://m.povar.ru/recipes/rulet_iz_baklajanov_s_syrom_i_koreiskoi_morkoviu-95560.html"
+        "https://img.povar.ru/mobile/5f/40/67/4d/rulet_iz_baklajanov_s_sirom_i_koreiskoi_morkoviu-856453.jpg",
+        "https://img.povar.ru/mobile/17/c0/28/40/rulet_iz_baklajanov_s_sirom_i_koreiskoi_morkoviu-856442.jpg",
+        "https://img.povar.ru/mobile/22/43/36/8a/rulet_iz_baklajanov_s_sirom_i_koreiskoi_morkoviu-856443.jpg",
+        "https://img.povar.ru/mobile/0f/f9/fc/d9/rulet_iz_baklajanov_s_sirom_i_koreiskoi_morkoviu-856444.jpg",
+        "https://img.povar.ru/mobile/1d/0a/9a/0c/rulet_iz_baklajanov_s_sirom_i_koreiskoi_morkoviu-856445.jpg"
       ],
       "video": "",
       "ingredients": [
@@ -259,10 +267,14 @@
     {
       "id": 8,
       "name": "Тушеная капуста с морковью и луком",
-      "banner": "https://m.povar.ru/recipes/tushenaya_kapusta_s_morkoviu_i_lukom-92337.html",
+      "banner": "https://img.povar.ru/mobile/e2/a7/b1/e7/tushenaya_kapusta_s_morkoviu_i_lukom-806118.jpg",
       "description": "Тушеная капуста с морковью и луком — простое и вкусное блюдо, которое подойдет для повседневного меню. Потребуются самые доступные продукты, а процесс приготовления не отнимает много сил.",
       "images": [
-        "https://m.povar.ru/recipes/tushenaya_kapusta_s_morkoviu_i_lukom-92337.html"
+        "https://img.povar.ru/mobile/e2/a7/b1/e7/tushenaya_kapusta_s_morkoviu_i_lukom-806118.jpg",
+        "https://img.povar.ru/mobile/00/8e/4e/5a/tushenaya_kapusta_s_morkoviu_i_lukom-806110.jpg",
+        "https://img.povar.ru/mobile/75/f0/70/bc/tushenaya_kapusta_s_morkoviu_i_lukom-806111.jpg",
+        "https://img.povar.ru/mobile/0a/16/19/14/tushenaya_kapusta_s_morkoviu_i_lukom-806113.jpg",
+        "https://img.povar.ru/mobile/0a/0c/c5/b1/tushenaya_kapusta_s_morkoviu_i_lukom-806116.jpg"
       ],
       "video": "",
       "ingredients": [
@@ -294,10 +306,14 @@
     {
       "id": 9,
       "name": "Гречка с тушенкой в мультиварке",
-      "banner": "https://povar.ru/recipes/grechka_s_tushenkoi_v_multivarke-10396.html",
+      "banner": "https://img.povar.ru/mobile/86/ea/65/56/grechka_s_tushenkoi_v_multivarke-864007.JPG",
       "description": "Быстро, просто, без хлопот и опасений, что блюдо может подгореть. Гречка с тушенкой накормит всю семью! Мультиварка сама напомнит о себе в нужное время.",
       "images": [
-        "https://povar.ru/recipes/grechka_s_tushenkoi_v_multivarke-10396.html"
+        "https://img.povar.ru/mobile/86/ea/65/56/grechka_s_tushenkoi_v_multivarke-864007.JPG",
+        "https://img.povar.ru/mobile/07/d1/f1/6a/grechka_s_tushenkoi_v_multivarke-863999.JPG",
+        "https://img.povar.ru/mobile/1a/72/e1/b3/grechka_s_tushenkoi_v_multivarke-864000.JPG",
+        "https://img.povar.ru/mobile/06/c2/ed/2d/grechka_s_tushenkoi_v_multivarke-864002.JPG",
+        "https://img.povar.ru/mobile/81/2d/17/7f/grechka_s_tushenkoi_v_multivarke-864003.JPG"
       ],
       "video": "",
       "ingredients": [
@@ -330,10 +346,14 @@
     {
       "id": 10,
       "name": "Врап с рыбой и творогом",
-      "banner": "https://povary.ru/recipes/Vrap/",
+      "banner": "https://img.povar.ru/mobile/1d/80/7c/b2/rulet_iz_lavasha_s_riboi-888383.JPG",
       "description": "Несмотря на несочетаемость продуктов, от этой вкуснятины за уши не оттащить! Вкусно как в холодном, так и в горячем виде. Быстрый и сытный перекус.",
       "images": [
-        "https://povary.ru/recipes/Vrap/"
+        "https://img.povar.ru/mobile/1d/80/7c/b2/rulet_iz_lavasha_s_riboi-888383.JPG",
+        "https://img.povar.ru/mobile/06/18/5b/58/rulet_iz_lavasha_s_riboi-888374.JPG",
+        "https://img.povar.ru/mobile/5b/89/89/34/rulet_iz_lavasha_s_riboi-888375.JPG",
+        "https://img.povar.ru/mobile/49/b5/6b/eb/rulet_iz_lavasha_s_riboi-888376.JPG",
+        "https://img.povar.ru/mobile/3f/05/07/63/rulet_iz_lavasha_s_riboi-888381.JPG"
       ],
       "video": "",
       "ingredients": [
